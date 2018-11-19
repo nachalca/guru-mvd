@@ -34,6 +34,21 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 ---
 
+## 50 Years of Data Science
+
+Trabajo en JCGS (2017) de David Donoho, donde revisa 4 trabajos clave: 
+
+1. John Tukey: “The Future of Data Analysis” (1962)
+
+2. John Chambers: “Greater or Lesser Statistics: A Choice for Future Research” (1993)
+
+3. Leo Breiman: “Statistical Modeling: The Two Cultures” (2001)
+
+4. William S. Cleveland: “Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics” (2001)
+
+---
+
+
 ## Lenguaje  R
 
 R es...
@@ -48,3 +63,10 @@ R es...
 - **Potente** Usando las herramientas adecuadas se puede hacer el trabajo m\'as r\'apido y mejor
 
 - **Flexible** peque\~nos cambios en la tarea se logran con peque\~nos cambios en el c\'odigo que est\'a disponible para el usuario
+
+---
+## Lenguaje  R
+
+<img src="significance.png" height="450px" width="660px" />
+https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x
+
