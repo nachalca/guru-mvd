@@ -1,0 +1,50 @@
+---
+title: "Grupo de Usuarios de R en Uruguay"
+author: "Primer Encuentro - Noviembre 2018"
+output:
+  xaringan::moon_reader:
+    css: ["default-fonts", "default"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    class: middle  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+## La ciencia de los datos
+
+- Es dif\'icil pensar en alg\'un \'area de la ciencia, industria o gobierno donde no se ha utilizado el t\'ermino: *Data Science*
+
+- The American Statistical Association (ASA, 2015), identifica tres 
+\'areas fundamentales:
+    - Manejo de bases de datos: transformaci\'on, organizaci\'on y agrupamiento de datos
+    - Estad\'istica: transformar los datos en conocimiento 
+    - Sistemas: infraestructura computacional para el an\'alisis de datos
+    
+---
+## La ciencia de los datos
+
+<img src="latinr_jenny.JPG" />
+
+---
+
+## Lenguaje  R
+
+R es...
+
+- un lenguaje y ambiente para hacer estad\'istica computacional y gr\'afica
+- uno de los lenguajes m\'as comunmente utilizado para ciencia de datos 
+- un software libre
+- soporta programaci\'on funcional as\'i como orientada a objetos
+
+- **Extensible:** m\'as de 15000 contribuciones de paquetes en CRAN (The Comprehensive R Archive Network). Bioconductor tiene m\'as de 2000 paquetes y hay otros disponibles en GitHub.
+
+- **Potente** Usando las herramientas adecuadas se puede hacer el trabajo m\'as r\'apido y mejor
+
+- **Flexible** peque\~nos cambios en la tarea se logran con peque\~nos cambios en el c\'odigo que est\'a disponible para el usuario
