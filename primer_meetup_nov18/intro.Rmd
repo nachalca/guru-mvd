@@ -16,22 +16,22 @@ output:
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
-
-## La ciencia de los datos
-
-- Es dif\'icil pensar en alg\'un \'area de la ciencia, industria o gobierno donde no se ha utilizado el t\'ermino: *Data Science*
-
-- The American Statistical Association (ASA, 2015), identifica tres 
-\'areas fundamentales:
-    - Manejo de bases de datos: transformaci\'on, organizaci\'on y agrupamiento de datos
-    - Estad\'istica: transformar los datos en conocimiento 
-    - Sistemas: infraestructura computacional para el an\'alisis de datos
-    
----
 ## La ciencia de los datos
 
 <img src="latinr_jenny.JPG" />
 
+---
+
+## La ciencia de los datos
+
+- Es difícil pensar en algún área de la ciencia, industria o gobierno donde no se ha utilizado el término: *Data Science*
+
+- The American Statistical Association (ASA, 2015), identifica tres 
+áreas fundamentales:
+    - Manejo de bases de datos: transformación, organización y agrupamiento de datos
+    - Estad\'istica: transformar los datos en conocimiento 
+    - Sistemas: infraestructura computacional para el análisis de datos
+    
 ---
 
 ## 50 Years of Data Science
@@ -45,28 +45,69 @@ Trabajo en JCGS (2017) de David Donoho, donde revisa 4 trabajos clave:
 3. Leo Breiman: “Statistical Modeling: The Two Cultures” (2001)
 
 4. William S. Cleveland: “Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics” (2001)
-
----
-
-
-## Lenguaje  R
-
-R es...
-
-- un lenguaje y ambiente para hacer estad\'istica computacional y gr\'afica
-- uno de los lenguajes m\'as comunmente utilizado para ciencia de datos 
-- un software libre
-- soporta programaci\'on funcional as\'i como orientada a objetos
-
-- **Extensible:** m\'as de 15000 contribuciones de paquetes en CRAN (The Comprehensive R Archive Network). Bioconductor tiene m\'as de 2000 paquetes y hay otros disponibles en GitHub.
-
-- **Potente** Usando las herramientas adecuadas se puede hacer el trabajo m\'as r\'apido y mejor
-
-- **Flexible** peque\~nos cambios en la tarea se logran con peque\~nos cambios en el c\'odigo que est\'a disponible para el usuario
-
 ---
 ## Lenguaje  R
 
 <img src="significance.png" height="450px" width="660px" />
 https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01169.x
+
+---
+## Lenguaje  R
+
+Es uno de los lenguajes más comunmente utilizado para ciencia de datos 
+
+- **Extensible:** Ecosistema de bibliotecas, 
+  - CRAN (15000 bibliotecas)
+  - Bioconductor (2000 bibliotecas)
+  - Github (versiones de desarrollo)
+  - Ropensci 
+
+- **Basado en comunidades:**
+  - Grupos de Usuarios
+  - Rladies
+  - Rforwards
+
+---
+---  
+
+## Te acordás de esta foto ?
+
+<img src="latinr_jenny.JPG" />
+
+---
+
+## LatinR
+Primer conferencia de uso y desarrollo de `R` en América Latina. 
+
+<img src="latinr_tweet.png" />
+
+---
+## Porque un Grupo de Usuarios ? 
+
+- mucha gente interesada
+    - cursos de R en fcs, fcien, cure
+    - Lic. Estadística de fcea, fing y fcien
+    - https://espejito.fder.edu.uy/
+
+- aportar a la comunidad `R` en la region    
+    
+---
+## R-consortium
+
+- Brinda soporte a GURU::mvd (y todos los grupos de usuarios a nivel global)
+
+- Código de conducta: Una comunidad *abierta*, *considerada* y *respetuosa* 
+https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct
+
+
+---
+
+## Tryolabs
+
+<img src="TRYO.png" />
+
+---
+## Rladies
+
+<img src="rladies_foto.png" />
 
