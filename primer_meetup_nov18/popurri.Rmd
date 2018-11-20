@@ -17,9 +17,9 @@ options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-## @nachalca
+## Ignacio Alvarez-Castro, @nachalca
 
-- Ignacio Alvarez-Castro. Profesor Adjunto, IESTA-UdelaR
+- Profesor Adjunto en el Instituto de Estadística (IESTA-UDELAR)
 - Primeros pasos en `R`: como estudiante de Lic. Estadística (IESTA-UdelaR) ... cerca de 2003
 
 --
@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 **Machine Learning - A probabilistic perspective**, Kevin Murphy. 
 
 ---
-## Qué hgo en R...
+## Qué hago en R...
 
 - Redescubrir funciones de `R-base`
 
@@ -61,7 +61,7 @@ library(stringr)
 
 ## Natalia da Silva, @pacocuak
 
-- Profesora adjunta en el Instituto de Estadística (IESTA-UDELAR)
+- Profesora Adjunta en el Instituto de Estadística (IESTA-UDELAR)
 
 -  Lic. en Estadística y Lic. Economía: UDELAR
 
@@ -74,7 +74,7 @@ library(stringr)
 - R-Ladies Ames, R-Ladies Montevideo y ahora GURU::mvd
 ---
 
-##  <span style="color:#88398A"> Ejemplos de lo que hago en R! </span>
+## Ejemplos de lo que hago en R! </span>
 
 - **Paquetes:** https://cran.r-project.org/web/packages/PPforest/index.html
 
@@ -101,7 +101,7 @@ library(stringr)
 
 ---
 
-## Nicolás Schmidt
+## Nicolás Schmidt, @nicosch14
 
 - Docente e investigador en el Departamento de Ciencia Política - FCS
 - Primeros pasos en `R`: como ayudante de investigacion en FCEA. Necesidad de automatizar tareas que me dejaran tiempo para estudiar...
