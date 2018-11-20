@@ -82,16 +82,39 @@ Primer conferencia de uso y desarrollo de `R` en América Latina.
 <img src="latinr_tweet.png" />
 
 ---
-## Porque un Grupo de Usuarios ? 
+## ¿Porqué un Grupo de Usuarios ? 
 
-- mucha gente interesada
-    - cursos de R en fcs, fcien, cure
-    - Lic. Estadística de fcea, fing y fcien
+- Mucha gente interesada
+    - cursos de R en FCS, FCIEN, FCEA, CURE
+    
+    - Lic. Estadística de FCEA,FCIEN y FING
+   
     - https://espejito.fder.edu.uy/
 
-- aportar a la comunidad `R` en la region    
+- Aportar a la comunidad `R` en la región     
     
 ---
+
+## R-Ladies Montevideo
+
+- Primer iniciativa de comunidad R en Montevideo 
+
+R-Ladies: organización internacional que promueve la diversidad de género en la comunidad de R en un espacio amigable y seguro. 
+
+- Primer encuentro Agosto 2017
+-  169 miembros 
+
+Contacto:
+
+ meetup rladies.uy
+ 
+ twitter: @RLadiesMVD
+ 
+ Facebook: RLadiesMVD
+ 
+ email: montevideo@rladies.org
+---
+
 ## R-consortium
 
 - Brinda soporte a GURU::mvd (y todos los grupos de usuarios a nivel global)
