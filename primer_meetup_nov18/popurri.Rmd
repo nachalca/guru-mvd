@@ -89,3 +89,56 @@ library(stringr)
 - **Curso en Lic. Estadística:** "Nuevas tecnologías para el análisis estadístico de datos"
 
 ---
+
+<style>
+  .col2 {
+    columns: 2 200px;         
+    -webkit-columns: 2 200px; 
+    -moz-columns: 2 200px;    
+  }
+</style>
+
+
+---
+
+## Nicolás Schmidt
+
+- Docente e investigador en el Departamento de Ciencia Política - FCS
+- Primeros pasos en `R`: como ayudante de investigacion en FCEA. Necesidad de automatizar tareas que me dejaran tiempo para estudiar...
+
+--
+
+Mi primer función en R!:
+```{r}
+funcion_diaria <- function(paquete = "base"){
+          ruta <- search()
+          l <- ls(ruta[which(ruta==paste0("package:", paquete))])
+          sample(l, 1)
+}
+funcion_diaria()
+```
+
+
+---
+## Qué hago en R...
+
+
+<div class="col2">
+
+- Estudio sistemas electorales y sistemas de partidos y cómo éstos impactan en el regimen de gobierno.
+- Producto de esto hice un paquete para simplificarme la vida:
+
+     <img src="esaps.png" height="60px" width="55px" />
+     
+- **esaps**: *Indicators of Electoral Systems and Party Systems*
+- **Votaciones nominales en congresos:** Simulacion MCMC,  multidimensional scaling...
+
+<img src="wn.png" height="450px" width="550px" />
+
+---
+## Actualmente... más de lo mismo pero con Text Analysis
+<img src="ta.png" height="350px" width="900px" />
+
+---
+
+
