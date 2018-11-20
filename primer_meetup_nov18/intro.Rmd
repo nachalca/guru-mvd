@@ -16,13 +16,13 @@ output:
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
-## La ciencia de los datos
+## La ciencia de datos
 
 <img src="latinr_jenny.JPG" />
 
 ---
 
-## La ciencia de los datos
+## La ciencia de datos
 
 - Es difícil pensar en algún área de la ciencia, industria o gobierno donde no se ha utilizado el término: *Data Science*
 
@@ -70,13 +70,13 @@ Es uno de los lenguajes más comunmente utilizado para ciencia de datos
 ---
 ---  
 
-## Te acordás de esta foto ?
+## ¿Te acordás de esta foto ?
 
 <img src="latinr_jenny.JPG" />
 
 ---
 
-## LatinR
+## LatinR 2018
 Primer conferencia de uso y desarrollo de `R` en América Latina. 
 
 <img src="latinr_tweet.png" />
@@ -85,7 +85,8 @@ Primer conferencia de uso y desarrollo de `R` en América Latina.
 ## ¿Porqué un Grupo de Usuarios ? 
 
 - Mucha gente interesada
-    - cursos de R en FCS, FCIEN, FCEA, CURE
+
+    - Cursos de R en FCS, FCIEN, FCEA, CURE
     
     - Lic. Estadística de FCEA,FCIEN y FING
    
@@ -133,4 +134,10 @@ https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Cond
 ## Rladies
 
 <img src="rladies_foto.png" />
+
+---
+
+## Se viene el Popurri!!!
+
+
 
