@@ -1,6 +1,6 @@
 ---
 title: "Grupo de Usuarios de R en Uruguay"
-author: "Primer Encuentro - Noviembre 2018"
+author: "GURU::mvd<br /> <br /> <br />Primer Encuentro - Noviembre 2018"
 output:
   xaringan::moon_reader:
     css: ["default-fonts", "default"]
