@@ -1,6 +1,6 @@
 ---
 title: "Grupo de Usuarios de R en Uruguay"
-author: "Primer Encuentro - Noviembre 2018"
+author: "GURU::mvd<br /> <br /> <br />Primer Encuentro - Noviembre 2018"
 output:
   xaringan::moon_reader:
     css: ["default-fonts", "default"]
@@ -17,23 +17,23 @@ options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-## nachalca
+## @nachalca
 
 - Ignacio Alvarez-Castro. Profesor Adjunto, IESTA-UdelaR
-- Primeros pasos en `R`: como estudiante de Lic. Estadística (IESTA-UdelaR) ... cerca de 2005
+- Primeros pasos en `R`: como estudiante de Lic. Estadística (IESTA-UdelaR) ... cerca de 2003
 
 --
 
-## que cosas hago en R...
+## Qué cosas hago en R...
 
-- Estadistica Bayesiana (**STAN**, JAGS, INLA, NIMBLE)
+- Estadística Bayesiana (**STAN**, JAGS, INLA, NIMBLE)
 
 *''The systematic application of probabilistic reasoning to all inferential problems, including inferring parameters of statistical models, is sometimes called a Bayesian approach''* 
 
 **Machine Learning - A probabilistic perspective**, Kevin Murphy. 
 
 ---
-## que hgo en R...
+## Qué hgo en R...
 
 - Redescubrir funciones de `R-base`
 
@@ -57,5 +57,35 @@ library(stringr)
   basename()
 ```
 
+---
 
+## Natalia da Silva, @pacocuak
 
+- Profesora adjunta en el Instituto de Estadística (IESTA-UDELAR)
+
+-  Lic. en Estadística y Lic. Economía: UDELAR
+
+- Doctorado y Maestría en Estadística: Iowa State University, USA
+
+- Investigación: aprendizaje automático, estadística computacional, visualización estadística y meta-análisis 
+
+- Primeros pasos en `R`: como estudiante de Lic. Estadística (IESTA-UdelaR) ... cerca de 100 años atrás
+
+- R-Ladies Ames, R-Ladies Montevideo y ahora GURU::mvd
+---
+
+##  <span style="color:#88398A"> Ejemplos de lo que hago en R! </span>
+
+- **Paquetes:** https://cran.r-project.org/web/packages/PPforest/index.html
+
+- **Reportes interactivos:** https://arxiv.org/pdf/1807.07207.pdf
+
+- **Shiny apps:** https://ndasilva.shinyapps.io/shiny-pov/
+
+- **Página personal:**  http://natydasilva.com
+
+- **Slides:** https://natydasilva.github.io/taller_LatinR/#1
+
+- **Curso en Lic. Estadística:** "Nuevas tecnologías para el análisis estadístico de datos"
+
+---
