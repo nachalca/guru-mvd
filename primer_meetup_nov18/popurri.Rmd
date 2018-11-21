@@ -47,7 +47,13 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 - **Curso en Lic. Estadística:** "Nuevas tecnologías para el análisis estadístico de datos"
 
 ---
-
+<style>
+  .col2 {
+    columns: 2 200px;         
+    -webkit-columns: 2 200px; 
+    -moz-columns: 2 200px;    
+  }
+</style>
 
 ## Nicolás Schmidt, @nicosch14
 
