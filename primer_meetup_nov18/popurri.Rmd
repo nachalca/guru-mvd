@@ -141,4 +141,38 @@ funcion_diaria()
 
 ---
 
+## Guzmán López, @guzilop
+
+- Desarrollador en el Instituto Uruguayo de Meteorología (INUMET)
+- Lic. en Ciencias Biológicas (FCien-UdelaR)
+
+- Estudié programación en la ORT y más de "autodidacta"
+- Primeros pasos en `R`: como estudiante de FCien en 2009
+
+--
+
+## Qué cosas hago/hice en R...
+
+- Desarrollando herramientas de monitoreo y visualización para meteorología:
+  - {Elastic Stack, Grafana, Docker} + R y Python
+  
+- Antes: acústica submarina, oceanografía y tráfico marítimo
+  - R como SIG (`sp`, `sf`, `leaflet`, `mapview`, `raster`)
+  - Geoestadística (`gstat`, `geoR`)
+  - Aplicaciones web (`shiny`)
+---
+
+## Qué intereses tengo actualmente...
+
+- Integración de R con otras tecnologías
+- R en producción
+- R + Python = <3
+- Machine Learning para la maestría
+- Que `R` siga creciendo...
+
+<img src="tiobe_R.png" width="900px" />
+
+
+---
+
 
