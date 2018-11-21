@@ -17,48 +17,6 @@ options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-## Ignacio Alvarez-Castro, @nachalca
-
-- Profesor Adjunto en el Instituto de Estadística (IESTA-UDELAR)
-- Primeros pasos en `R`: como estudiante de Lic. Estadística (IESTA-UdelaR) ... cerca de 2003
-
---
-
-## Qué cosas hago en R...
-
-- Estadística Bayesiana (**STAN**, JAGS, INLA, NIMBLE)
-
-*''The systematic application of probabilistic reasoning to all inferential problems, including inferring parameters of statistical models, is sometimes called a Bayesian approach''* 
-
-**Machine Learning - A probabilistic perspective**, Kevin Murphy. 
-
----
-## Qué hago en R...
-
-- Redescubrir funciones de `R-base`
-
-```{r}
-library(tidyverse)
-library(stringr)
-
-"http://www.impo.com.uy/convenios/1261-011.pdf" %>%
-  as_data_frame() %>%
-  mutate(aux=str_extract_all(value, pattern = '[[:digit:]]+') ) %>%
-  mutate(doc=map(aux, paste0, collapse="-")) %>%
-  unnest(doc) %>%
-  mutate( destino  =  paste0(doc, '.pdf', sep = '') ) %>%
-  pull( destino )
-```
-
---
-
-```{r}
-"http://www.impo.com.uy/convenios/1261-011.pdf" %>%
-  basename()
-```
-
----
-
 ## Natalia da Silva, @pacocuak
 
 - Profesora Adjunta en el Instituto de Estadística (IESTA-UDELAR)
@@ -238,5 +196,47 @@ Paquetes con los que suelo trabajar:
 - library(“karyoploteR”)
 
 Muchas gracias!
+
+---
+
+## Ignacio Alvarez-Castro, @nachalca
+
+- Profesor Adjunto en el Instituto de Estadística (IESTA-UDELAR)
+- Primeros pasos en `R`: como estudiante de Lic. Estadística (IESTA-UdelaR) ... cerca de 2003
+
+--
+
+## Qué cosas hago en R...
+
+- Estadística Bayesiana (**STAN**, JAGS, INLA, NIMBLE)
+
+*''The systematic application of probabilistic reasoning to all inferential problems, including inferring parameters of statistical models, is sometimes called a Bayesian approach''* 
+
+**Machine Learning - A probabilistic perspective**, Kevin Murphy. 
+
+---
+## Qué hago en R...
+
+- Redescubrir funciones de `R-base`
+
+```{r}
+library(tidyverse)
+library(stringr)
+
+"http://www.impo.com.uy/convenios/1261-011.pdf" %>%
+  as_data_frame() %>%
+  mutate(aux=str_extract_all(value, pattern = '[[:digit:]]+') ) %>%
+  mutate(doc=map(aux, paste0, collapse="-")) %>%
+  unnest(doc) %>%
+  mutate( destino  =  paste0(doc, '.pdf', sep = '') ) %>%
+  pull( destino )
+```
+
+--
+
+```{r}
+"http://www.impo.com.uy/convenios/1261-011.pdf" %>%
+  basename()
+```
 
 ---
