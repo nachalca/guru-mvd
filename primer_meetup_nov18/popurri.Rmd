@@ -221,9 +221,7 @@ Muchas gracias!
 **Machine Learning - A probabilistic perspective**, Kevin Murphy. 
 
 ---
-## Qué hago en R...
-
-- Redescubrir funciones de `R-base`
+## Redescubrir funciones de `R-base`
 
 ```{r}
 library(tidyverse)
@@ -246,3 +244,32 @@ library(stringr)
 ```
 
 ---
+
+## Daniela Vázquez, @d4tagirl
+
+- Economista.
+- Data Scientist Freelance (actualmente trabajando para Pyxis).
+- Blog: dv.uy.
+- R-Ladies co-fundadora.
+- NASA Datanaut.
+
+Pasado:
+- Data Scientist en Idatha (Análisis de datos con foco en Redes Sociales).
+- Analytics Consultant en Equifax.
+
+--- 
+Primeros pasos en R: 
+2010 en Análisis Multivariado 1 de la Licenciatura en Estadística.
+
+Después autodidacta en el trabajo y con MOOCs varios.
+
+---
+
+## Qué cosas hago/hice en R..
+
+- Text Analysis
+- Machine Learning
+- Visualización de datos
+- Scrapping
+- Blogging
+
