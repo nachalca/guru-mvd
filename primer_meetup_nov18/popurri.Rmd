@@ -172,7 +172,51 @@ funcion_diaria()
 
 <img src="tiobe_R.png" width="900px" />
 
+---
+  
+## Elina Gómez, @elinagomezb
+  
+- Socióloga - UdelaR
+
+- Maestría en Estudios Contemporáneos de América Latina (DS - FCS - UdelaR) (_tesis pendiente_)
+
+- Asistente técnica Dirección Nacional de Evaluación y Monitoteo (MIDES) y DS - FCS
+
+- Primeros pasos en `R` + `Latex`: compañerxs de trabajo me convencieron de la utilidad de R para el trabajo
+
+**Dictado:**
+
+- Cursos internos de iniciación en R en DINEM - MIDES
+
+- Curso _R: informes automatizados y análisis de datos en un único software_ (Educación Permanente - FCS - UdelaR)
 
 ---
+  
+## Qué hago en R...
+  
+- Manipulación y procesamiento de bases de datos
 
+- Automatización de informes sistemáticos con indicadores de monitoreo de Programas sociales (MIDES) y otros proyectos específicos
+
+- **knitr**, **R Markdown**, **tidyverse** y otros...
+
+<img src="repo_ehum.png" height="300px" width="550px" />
+  
+  
+---
+  
+## Qué hago en R...
+  
+  <div class="col2">
+    
+- Análisis cualitativo y textual
+  
+- _Codificación de textos, nubes de palabras, análisis de asociación, agrupación jerárquica, análisis de sentimiento_
+  
+- **RQDA**, **tm**, **quanteda**
+    
+  <img src="nube.png" height="px" width="450px" />
+  <img src="dendo.png" height="px" width="450px" />
+        
+---
 
