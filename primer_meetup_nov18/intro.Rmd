@@ -137,6 +137,13 @@ https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Cond
 
 ---
 
+---
+## R entre otros lenguajes 
+
+
+
+---
+
 ## Se viene el Popurri!!!
 
 
