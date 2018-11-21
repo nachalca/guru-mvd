@@ -90,16 +90,6 @@ library(stringr)
 
 ---
 
-<style>
-  .col2 {
-    columns: 2 200px;         
-    -webkit-columns: 2 200px; 
-    -moz-columns: 2 200px;    
-  }
-</style>
-
-
----
 
 ## Nicolás Schmidt, @nicosch14
 
@@ -142,3 +132,33 @@ funcion_diaria()
 ---
 
 
+## Florencia Díaz Viraqué, @fdiazviraque
+
+Estudiante de doctorado, Investigador Asistente en Laboratorio de Interacción Hospedero-Patógeno, Institut Pasteur Montevideo
+
+- Lic. en Bioquímica
+
+- Maestría en Biologia Celular y Molecular
+
+- Facultad de Ciencias, UdelaR
+
+---
+
+## Qué hago en R...
+
+Investigación: ensamblado de genoma, análisis de transcriptoma, análisis y visualización de secuencias biológicas
+
+Paquetes con los que suelo trabajar:
+
+- library(“seqinr”)
+- library(“Rsubread”)
+- library(“DESeq2”)
+- library(“GenomicRanges”)
+- library(“ggplot2”)
+- library(“pheatmap”)
+- library(“geneplotter”)
+- library(“karyoploteR”)
+
+Muchas gracias!
+
+---
