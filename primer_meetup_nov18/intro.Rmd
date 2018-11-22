@@ -247,6 +247,8 @@ funcion_diaria()
 - **esaps**: *Indicators of Electoral Systems and Party Systems*
 - **Votaciones nominales en congresos:** Simulacion MCMC,  multidimensional scaling...
 
+<br />
+
 <img src="wn.png" height="450px" width="550px" />
 
 ---
